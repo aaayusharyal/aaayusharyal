@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aayush Aryal.
-- 👀 I’m interested in Web Development and Data Science.
-- 🌱 I’m currently learning frameworks, Python.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Python, SQL
 
 - 📫 How to reach me aryalayush86@gmail.com
 - 😄 Pronouns: he/him
