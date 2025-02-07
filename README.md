@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aayush Aryal.
-- 👀 I’m interested in Data Science.
+- 👀 I’m interested in Machine Learning and Artificial Intelligence.
 
 
 - 📫 How to reach me aryalayush86@gmail.com
