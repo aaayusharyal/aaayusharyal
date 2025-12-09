@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Aayush Aryal.
-- 👀 I’m interested in Machine Learning and Artificial Intelligence.
-
-
 - 📫 How to reach me aryalayush86@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Fishes can't fly, and neither can elephants.
